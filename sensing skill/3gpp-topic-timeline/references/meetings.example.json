@@ -1,0 +1,34 @@
+[
+  {
+    "meeting": "RAN3#119",
+    "date": "2023-02-27",
+    "chair_notes": "input/RAN3_119_agenda_20230303_EOM2.zip",
+    "ftp_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_119/",
+    "sections": [
+      {"label": "SON", "start": "^10\\. Enhancement of Data Collection", "end": "^11\\. "},
+      {"label": "AI", "start": "^12\\. AI/ML for NG-RAN", "end": "^13\\. "}
+    ],
+    "filter_keywords": null
+  },
+  {
+    "meeting": "RAN3#123",
+    "date": "2024-02-26",
+    "chair_notes": "input/RAN3_123_agenda_20240301_EOM1.zip",
+    "ftp_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_123/",
+    "sections": [
+      {"label": "SON", "start": "^9\\.1\\.1\\. R18 SON/MDT", "end": "^9\\.1\\.2\\. "},
+      {"label": "AI", "start": "^9\\.1\\.3\\. R18 AI/ML", "end": "^9\\.1\\.4\\. "}
+    ],
+    "filter_keywords": null
+  },
+  {
+    "meeting": "RAN3#124",
+    "date": "2024-05-20",
+    "chair_notes": "input/RAN3_124_agenda_20240524_eom2.zip",
+    "ftp_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_124/",
+    "sections": [
+      {"label": "R18corr", "start": "^9\\. Corrections", "end": "^10\\. "}
+    ],
+    "filter_keywords": "\\bSON\\b|\\bMDT\\b|\\bSHR\\b|\\bSPR\\b|\\bMRO\\b|\\bRACH\\b|RA report|PSCell List|\\bNPN\\b|NR-U|\\bMLB\\b|AI[-/]?ML|Data Collection|Energy Cost|[Tt]rajectory"
+  }
+]
